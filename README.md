@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Kalatchev</h1>
-<h3 align="center"><img src="https://img.shields.io/twitter/follow/vankyxd?logo=twitter&style=for-the-badge" alt="vankyxd" /></a> <span style="margin-top: -3px">A passionate full stack developer from Bulgaria</span> <img src="https://komarev.com/ghpvc/?username=ivan-kalatchev&label=Profile%20views&color=0e75b6&style=flat" alt="ivan-kalatchev" /></h3>
+<h3 align="center"><img src="https://img.shields.io/twitter/follow/vankyxd?logo=twitter&style=for-the-badge" alt="vankyxd" /></a> <span style="margin-top: -30px">A passionate full stack developer from Bulgaria</span> <img src="https://komarev.com/ghpvc/?username=ivan-kalatchev&label=Profile%20views&color=0e75b6&style=flat" alt="ivan-kalatchev" /></h3>
 
 - 🌱 I’m currently learning **Angular**
 
