@@ -3,6 +3,8 @@
 <p align="center"><img src="https://img.shields.io/twitter/follow/vankyxd?logo=twitter&style=for-the-badge" alt="vankyxd" /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ivan-kalatchev&label=Profile%20views&color=0e75b6&style=flat" alt="ivan-kalatchev" /></p>
 
+<p align="center">I’m currently hating <b>JAVA</b></p>
+
 <p align="center">🌱 I’m currently learning <b>Angular</b> 🌱</p>
 
 <p align="center">📝 I regularly write articles on <a href="https://samokalatchev.medium.com/">My blog</a> 📝</p>
